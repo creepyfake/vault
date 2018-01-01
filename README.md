@@ -9,4 +9,3 @@
 * Android
 * Kotlin 1.2.10
 * Dagger (_dependency injection_)
-
